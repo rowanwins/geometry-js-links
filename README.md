@@ -24,6 +24,15 @@ A bunch of links related to computational geometry
 - [rbush](https://github.com/mourner/rbush) - 2D spatial index for points and rectangles
   - [rbush-knn](https://github.com/mourner/rbush-knn) - k nearest neighbours
 
-
 ### Visbility graphs
 - [visibility-graph](https://github.com/rowanwins/visibility-graph) - based on Lee's Visibility Graph Algorithm
+
+
+## Other helpful links
+
+
+### Data structures & algorithms
+- [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms) - Contains lots of data structures & algorithms
+- [Priority queue](https://github.com/mourner/tinyqueue)
+- [Splay tree](https://github.com/w8r/splay-tree)
+- [AVL tree](https://github.com/w8r/avl)
