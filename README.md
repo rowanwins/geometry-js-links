@@ -36,3 +36,4 @@ A bunch of links related to computational geometry
 - [Priority queue](https://github.com/mourner/tinyqueue)
 - [Splay tree](https://github.com/w8r/splay-tree)
 - [AVL tree](https://github.com/w8r/avl)
+- [ngraph](https://github.com/anvaka/ngraph.graph) - graph data structure with nodes & edges etc
