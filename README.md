@@ -23,3 +23,7 @@ A bunch of links related to computational geometry
   - [GeoFlatbush](https://github.com/mourner/geoflatbush) - Geographic kNN extension for Flatbush
 - [rbush](https://github.com/mourner/rbush) - 2D spatial index for points and rectangles
   - [rbush-knn](https://github.com/mourner/rbush-knn) - k nearest neighbours
+
+
+### Visbility graphs
+- [visibility-graph](https://github.com/rowanwins/visibility-graph) - based on Lee's Visibility Graph Algorithm
